@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+# Pass Source code 
+!*.cpp
+!*.c
+!*.h
+
