@@ -1,6 +1,0 @@
-﻿  main.cpp
-c:\opencv\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
-c:\opencv\build\include\opencv2\legacy\compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
-c:\users\mosdeo\documents\visual studio 2012\projects\資工系-設計模式\final project\main.cpp(43): warning C4244: '正在初始化' : 將 '__int64' 轉換為 'long'，由於型別不同，可能導致資料遺失
-c:\users\mosdeo\documents\visual studio 2012\projects\資工系-設計模式\final project\main.cpp(69): warning C4244: '正在初始化' : 將 '__int64' 轉換為 'long'，由於型別不同，可能導致資料遺失
-  Final Project.vcxproj -> C:\Users\mosdeo\Documents\Visual Studio 2012\Projects\資工系-設計模式\Debug\Final Project.exe

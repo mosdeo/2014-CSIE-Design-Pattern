@@ -1,6 +1,0 @@
-# Pass Source and Binary code 
-*
-!*.c
-!*.cpp
-!*.h
-!*.exe
